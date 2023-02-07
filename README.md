@@ -4,8 +4,10 @@ I have built an interactive dashboard to explore the Belly Button Biodiversity d
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-Github Link:
+## Github Link:
 https://bharatguturi.github.io/belly-button-challenge/
+
+
 
 Here are the steps that I followed:
 Step 1: Plotly
@@ -29,9 +31,9 @@ e) otu_labels for the text values.
 
 6.  Updated all of the plots any time that a new sample is selected.
 
-7.  Here is the webpage with all the data displayed in different charts.
+7.  The webpage with all the data is displayed in different charts.
 
-About the Data
+References:
 Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
 
