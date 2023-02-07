@@ -8,9 +8,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 https://bharatguturi.github.io/belly-button-challenge/
 
 
-
+## Steps:
 Here are the steps that I followed:
-Step 1: Plotly
 1.	Used D3 library to read in samples.json and add the id in a dropdown that can used to select different ID's
  
 2.	Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual. used the following values from the JSON file for the charts:
